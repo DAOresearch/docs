@@ -22,7 +22,7 @@ module.exports = {
       'dao-deployment',
       'dao-kickstart',
     ],
-    Other: [
+    Resources: [
       'faq'
     ],
     Docusaurus: [
