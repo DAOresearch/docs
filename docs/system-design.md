@@ -1,5 +1,5 @@
 ---
-title: DAO System
+title: System Design
 ---
 
 Once you're figured out what you want to do, why, and how/when then you can actually design your DAO. The important thing here is to know what you want to do, then use the tools required to get the job done. Don't start with the tools! Otherwise you'll become like a man with a hammer. Choose the tools based on your goals and design constraints.

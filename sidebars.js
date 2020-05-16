@@ -1,11 +1,11 @@
 module.exports = {
   someSidebar: {
     "DAO Design Review": [
-      'dao-design-review'
+      'design-review'
     ],
     "0 => DAO": [
       '0-to-dao',
-      'dao-consultation',
+      'consultation',
       {
         type: 'category',
         label: 'DAO Design',
@@ -13,14 +13,14 @@ module.exports = {
           'design-goals',
           'roles-methods-states',
           'mechanisms',
-          'dao-system',
+          'system-design',
           'diagram',
           'simulation',
         ],
       },
-      'testing-dao',
-      'dao-deployment',
-      'dao-kickstart',
+      'testing',
+      'deployment',
+      'kickstart',
     ],
     Resources: [
       'faq'

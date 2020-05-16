@@ -1,5 +1,5 @@
 ---
-title: DAO Deployment
+title: Deployment
 ---
 
 Deploying your DAO on mainnet is where things get real. It's not a DAO until it's live. This is actually only the start of the battle, but it's a great first step non the less!  

@@ -1,5 +1,5 @@
 ---
-title: DAO Kickstart
+title: Kickstart
 ---
 
 A DAO is only as good as it's people. Good people. Good times. 

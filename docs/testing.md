@@ -1,5 +1,5 @@
 ---
-title: Testing DAO
+title: Testing 
 ---
 
 Once you know what you want to build, you need to build it. Often there are non-intuitive bugs and things that happen when you build stuff. A testing DAO allows you to verify that you can, indeed, build the thing you want. 
