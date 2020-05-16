@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[34],{133:function(o){o.exports=JSON.parse('{"allTagsPath":"/daoshop/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/daoshop/blog/tags/facebook"}')}}]);
