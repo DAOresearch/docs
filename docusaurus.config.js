@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://daoresearch.github.io',
   baseUrl: '/daoshop/',
   favicon: 'img/favicon.ico',
-  organizationName: 'daoresearch', // Usually your GitHub org/user name.
+  organizationName: 'daoresear-ch', // Usually your GitHub org/user name.
   projectName: 'daoshop', // Usually your repo name.
   themeConfig: {
     navbar: {
