@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[34],{133:function(s){s.exports=JSON.parse('{"allTagsPath":"/daoshop/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/daoshop/blog/tags/docusaurus"}')}}]);
