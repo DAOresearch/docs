@@ -1,30 +1,34 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  title: 'DAOresearch',
+  tagline: 'All DAOs all day!',
+  url: 'https://daoresearch.github.io',
+  baseUrl: '/daoshop/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'daoresearch', // Usually your GitHub org/user name.
+  projectName: 'daoshop', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'DAOresearch',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'DAOresearch Logo',
+        src: 'img/logo.png',
       },
       links: [
         {
-          to: 'docs/doc1',
-          activeBasePath: 'docs',
-          label: 'Docs',
+          href: 'https://www.notion.so/b78fb07170364f5b8d489e64ddac0128?v=b6b687f83e6d43c291b7863bce1bef8c',
+          label: 'DAO\'s in the Wild',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
+          to: 'docs/0-to-dao',
+          activeBasePath: 'docs',
+          label: 'DAOshop',
+          position: 'left',
+        },
+        {
+          to: 'blog', 
+          label: 'Blog', 
+          position: 'left'
         },
       ],
     },
@@ -35,11 +39,15 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
+              label: 'DAOs 101',
               to: 'docs/doc1',
             },
             {
-              label: 'Second Doc',
+              label: 'DAO\'s in the Wild',
+              to: 'docs/doc2',
+            },
+            {
+              label: 'DAO Related Things',
               to: 'docs/doc2',
             },
           ],
@@ -48,34 +56,34 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: '💬 Discord',
+              href: 'https://discord.gg/7TkMrVK',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: '🦜 Twitter',
+              href: ' https://twitter.com/DaoResearch/',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: '📧 Newsletter',
+              href: 'https://daoresearch.substack.com/',
+            },
+            {
+              label: '📜 Blog',
+              to: 'blog',
             },
           ],
         },
         {
-          title: 'More',
+          title: 'Services',
           items: [
             {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'DAOshop',
+              to: 'docs/0-to-dao',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} DAOresearch <br> <a href="https://docusaurus.io/">🦖 Built with Docusaurus</a>`,
     },
   },
   presets: [
