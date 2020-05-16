@@ -11,7 +11,7 @@ Stuff goes here.
 # Simple
 
 ---
-title: DAO System
+title: 
 ---
 
 Stuff goes here.
