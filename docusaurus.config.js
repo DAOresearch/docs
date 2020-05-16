@@ -1,7 +1,7 @@
 module.exports = {
   title: 'DAOresearch',
   tagline: 'All DAOs all day!',
-  url: 'https://daoresearch.github.io',
+  url: 'https://daoresear.ch',
   baseUrl: '/daoshop/',
   favicon: 'img/favicon.ico',
   organizationName: 'daoresear-ch', // Usually your GitHub org/user name.
