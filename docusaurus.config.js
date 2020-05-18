@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'DAOresearch',
+  title: 'DAO Research Docs',
   tagline: 'All DAOs all day!',
-  url: 'https://daoresear-ch.github.io',
-  baseUrl: '/daoshop/',
+  url: 'https://daoresearch.github.io',
+  baseUrl: '/docs/',
   favicon: 'img/favicon.ico',
-  organizationName: 'daoresear-ch', // Usually your GitHub org/user name.
-  projectName: 'daoshop', // Usually your repo name.
+  organizationName: 'daoresearch', // Usually your GitHub org/user name.
+  projectName: 'docs', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'DAOresearch',
