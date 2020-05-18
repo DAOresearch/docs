@@ -8,7 +8,7 @@ module.exports = {
   projectName: 'docs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'DAOresearch',
+      title: 'DAO Research',
       logo: {
         alt: 'DAOresearch Logo',
         src: 'img/logo.png',
@@ -17,7 +17,7 @@ module.exports = {
         {
           to: 'docs/0-to-dao',
           activeBasePath: 'docs',
-          label: 'DAOshop',
+          label: 'DAO Design Process',
           position: 'left',
         },
         {
