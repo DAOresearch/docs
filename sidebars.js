@@ -3,7 +3,7 @@ module.exports = {
     "DAO Design Review": [
       'design-review'
     ],
-    "0 => DAO": [
+    "DAO Design Process": [
       '0-to-dao',
       'consultation',
       {

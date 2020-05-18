@@ -4,7 +4,7 @@ title: 0 to DAO
 
 > This page will be an overview of how DAOshop helps you go from 0 => DAO.
 
-## DAOshop 0 => DAO Process
+## DAO Design Process
 
 #### DAO Consultation
 - understand the goals of the system and the problems that need to be solved
